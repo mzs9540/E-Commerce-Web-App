@@ -1,0 +1,20 @@
+#typo1 {
+    background-color: #cfe8fc;
+    height: 90vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#paper1 {
+    width: 80%;
+    height: 40vh;
+    position: relative;
+    align-items: center;
+}
+
+#cardMedia1 {
+    max-height: 100px;
+    max-width: 100px;
+    margin: 50px;
+}
